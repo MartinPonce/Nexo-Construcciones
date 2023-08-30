@@ -15,10 +15,10 @@ function App() {
       <Contact />
       <a
         href="https://api.whatsapp.com/send?phone=NUMERO"
-        className="fixed bottom-0 right-0 p-4"
+        className="fixed bottom-4 right-2 p-4"
       >
         {/* Aquí debes agregar el logo de WhatsApp */}
-        <img src="whatsapp1.png" alt="WhatsApp" className="w-8 h-8" />
+        <img src="whatsapp1.png" alt="WhatsApp" className="w-12 h-12 hover:scale-150 transition-scale duration-200 ease-in" />
       </a>
     </div>
   );
