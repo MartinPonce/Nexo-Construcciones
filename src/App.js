@@ -14,7 +14,7 @@ function App() {
       <Products />
       <Contact />
       <a
-        href="https://api.whatsapp.com/send?phone=NUMERO"
+        href="https://wa.me/+5492665009553?text=Bienvenidos%20a%20Nexo%20construcciones!%20Necesito%20asistencia%20por%20favor"
         className="fixed bottom-4 right-2 p-4"
       >
         {/* Aquí debes agregar el logo de WhatsApp */}
