@@ -4,6 +4,8 @@ import Home from './components/Home';
 import About from './components/About';
 import Products from './components/Products';
 import Contact from './components/Contact';
+import '@fortawesome/fontawesome-free/css/all.css';
+
 
 function App() {
   return (
@@ -14,7 +16,7 @@ function App() {
       <Products />
       <Contact />
       <a
-        href="https://wa.me/+5492665009553?text=Bienvenidos%20a%20Nexo%20construcciones!%20Necesito%20asistencia%20por%20favor"
+        href="https://wa.me/+5492665009553?text=Hola%20que%20tal%20me%20podrían%20brindar%20información%20por%20favor"
         className="fixed bottom-4 right-2 p-4"
       >
         {/* Aquí debes agregar el logo de WhatsApp */}

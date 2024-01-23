@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <div className="bg-slate-400 border-b shadow-lg rounded-lg sticky top-0 p-2 ">
+    <div className="bg-slate-400  shadow-lg sticky top-0 p-2 ">
       <header className="flex justify-between items-center px-3 max-w-6xl mx-auto">
         <div>
           <img src="nexoconstrucciones.jpg" alt="CONSTRUCCIONES" className="shadow-xl rounded-xl h-16"/> 

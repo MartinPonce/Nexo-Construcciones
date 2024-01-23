@@ -15,7 +15,7 @@ const Home = () => {
           
             <h1 className="text-3xl font-bold mt-8 mb-12 text-center sm:text-left">BIENVENIDOS A NEXO CONSTRUCCIONES</h1>
               <p className="text-md font-semibold mb-8">Pedinos tu cotización sin cargo!</p>
-              <a href="https://wa.me/+5492665009553?text=Bienvenidos%20a%20Nexo%20construcciones!%20Necesito%20asistencia%20por%20favor" className="mt-4 mb-12 inline-block px-4 py-2 bg-blue-500  hover:bg-blue-800 transition-all text-white font-semibold rounded shadow-lg hover:scale-150 transition-scale duration-200 ease-in">
+              <a href="https://wa.me/+5492665009553?text=Hola%20que%20tal%20me%20podrían%20brindar%20información%20por%20favor" className="mt-4 mb-12 inline-block px-4 py-2 bg-blue-500  hover:bg-blue-800 transition-all text-white font-semibold rounded shadow-lg hover:scale-150 transition-scale duration-200 ease-in">
                 CONSULTAR
               </a>
       </div>
